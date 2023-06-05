@@ -1,0 +1,12 @@
+:root{
+    --primary: orange
+}
+
+/* .navbar-nav:hover {
+    background-color: var(--primary);
+} */
+
+.navbar-nav {
+    color: black;
+    outline: none;
+}
